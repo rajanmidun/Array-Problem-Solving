@@ -4,4 +4,4 @@
 ## Part 2: Find the duplicate number and numbers in an array  
 ## Part 3: Find the Largest and Smallest number in an unsorted array  
 ## Part 4: Find all the pairs of an integer array whose sum is equal to given number  
-
+## Part 5: Remove all the duplicated number/elements from an array  
